@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1067214043661",
+    "firebase_url": "https://authentication-cae16-default-rtdb.firebaseio.com",
+    "project_id": "authentication-cae16",
+    "storage_bucket": "authentication-cae16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067214043661:android:efdbb86529e2a5ea9b3344",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8uSBkBo7z0Y11fkfi7MbYmc3C8FHALto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
